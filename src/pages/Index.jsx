@@ -5,7 +5,7 @@ const Index = () => {
   return (
     <Container maxW="container.xl">
       <VStack spacing={8} py={10}>
-        <Heading as="h1" size="2xl" textAlign="center">
+        <Heading as="h1" size="2xl" textAlign="center" bg="green.500" color="white">
           All About Labrador Dogs
         </Heading>
         <Text fontSize="xl" textAlign="justify">
